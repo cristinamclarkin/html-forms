@@ -5,19 +5,16 @@ h1 {
 body {
     margin: 0;
 }
-      
-    #red{
-    background-color:red; }          
+             
     #black{
         background-color: black; }
-
-    #gold{
-        background-color: #ffd700; }
     
 
-    .bar {   
+    .box {   
+        display: inline-block;
         height:100px;
-        width:500px;
+        width:100px;
+        margin-right: 50px;
         
 }
 
