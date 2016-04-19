@@ -1,8 +1,23 @@
+
 h1 {
     font-family: arial;
 }
+body {
+    margin: 0;
+}
+      
+    #red{
+    background-color:red; }          
+    #black{
+        background-color: black; }
 
-                
-    div {
-        background-color: #ff0000;
-            }
+    #gold{
+        background-color: #ffd700; }
+    
+
+    .bar {   
+        height:100px;
+        width:500px;
+        
+}
+
